@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZGq6qdDVPfYXrm+i541pDIwXV5h2Sc12CS8fN1DpBXnTwSJD+fPKSYvIrHH0an8/XZv9qpZe5Wc73iaEp0dGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cormi\\source\\repos\\ServeurManagement\\ServeurManagement\\ServeurManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cormi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
